@@ -20,7 +20,7 @@ Editing the code:
 
 2. Un-Comment line 54 and/or adjust the values to change the tint on the image.
 
-3, change the floats targetR, targetG and targetB to change the RGB values that the program looks for, changing these values to 0 will show the raw image.
+3. change the floats targetR, targetG and targetB to change the RGB values that the program looks for, changing these values to 0 will show the raw image.
 
 Files In the download:
 
