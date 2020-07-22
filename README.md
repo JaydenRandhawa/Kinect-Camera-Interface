@@ -4,7 +4,7 @@ Installation:
 
 1. Download and Install processing from https://processing.org/download/.
 
-2. Install the open kinect/lib freenect library from in processing or at https://github.com/OpenKinect/libfreenect.
+2. Open libfreenect for kinect v1 and libfreenect2 for kinect v2 or at https://github.com/OpenKinect.
 
 3. Connect your kinect camera and start the processing application.
 
